@@ -1,6 +1,6 @@
 * {
-	font-family: 'Open Sans', sans-serif;
+	color: green;
 	
-header {
-	font-family: 'Bellota', cursive; 
+h1 {
+	color: red; 
 }
