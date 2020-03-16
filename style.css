@@ -1,3 +1,8 @@
+body {
+	font-family: 'Roboto Mono', monospace;
+}
 header {
-	color: green;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 700;
+  color: red;
 }
